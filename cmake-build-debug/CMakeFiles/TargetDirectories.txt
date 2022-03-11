@@ -1,3 +1,0 @@
-/home/lauderdice/Desktop/github_epoll/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/lauderdice/Desktop/github_epoll/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/lauderdice/Desktop/github_epoll/cmake-build-debug/CMakeFiles/epoll_event_loop.dir
